@@ -9,24 +9,6 @@ const data = [
   },
   {
     id: 2,
-    text: "about",
-    url: "/about/",
-    sectionId: ""
-  },
-  {
-    id: 3,
-    text: "projects",
-    url: "/projects/",
-    sectionId: "projects"
-  },
-  {
-    id: 4,
-    text: "blog",
-    url: "/blog/",
-    sectionId: ""
-  },
-  {
-    id: 5,
     text: "contact",
     url: "/contact/",
     sectionId: ""
